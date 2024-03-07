@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sovit Naik
+- 👋 Hi, I’m Sovit Naik.
 - 👀 I’m interested in Coding,Travelling..
 - 🌱 I’m currently learning java.
 - 📫 How to reach me - sovitnaik2007@gmail.com

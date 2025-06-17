@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sovit Naik.
 - 👀 I’m interested in Coding,Travelling..
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning Machine Learning,Data Science.
 - 📫 How to reach me - sovitnaik2007@gmail.com
 
 
